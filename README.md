@@ -19,7 +19,7 @@ bot_name = "~Message-sender-bot" # Your bot name doesn't matter what name you gi
 
 Server_name = "<YOUR_SERVER_NAME>" # your server name.
 
-path = "" # Location of the file where the commandsender.py file is saved. Like e.g /data/myserver/commandsender.py
+path = "" # Location of the file where the Command.py file is saved. Like e.g /data/myserver/Command.py
 
 TOKEN = "<YOUR_BOT_TOKEN>" # Your bot token...
 
@@ -82,4 +82,5 @@ Now if you are not a coder and got confused don't be upset i got your back, i al
 
 
 Now run the discord.py :)
+
 enjoy! 😉

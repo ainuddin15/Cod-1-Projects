@@ -25,9 +25,9 @@ TOKEN = "<YOUR_BOT_TOKEN>" # Your bot token...
 
 Now before you run the script see the methods down below, Complete one of them so that your bot should work:
 
-[Method No. 1](https://github.com/ainuddin15/Cod-1-Projects/blob/main/README.md#method-1)
+[Method No. 1](https://github.com/ainuddin15/Cod-1-discord-messenger/blob/main/README.md#method-1)
 
-[Method No. 2](https://github.com/ainuddin15/Cod-1-Projects/blob/main/README.md#method-2)
+[Method No. 2](https://github.com/ainuddin15/Cod-1-discord-messenger/blob/main/README.md#method-2)
 
   
 ## Method 1

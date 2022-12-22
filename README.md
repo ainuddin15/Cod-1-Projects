@@ -1,21 +1,27 @@
 # Talk in Cod 1 Server through discord.
 
 
-open the discord.py
+*open the discord.py*
 
 Change the variables according to your needs.
 
 Like
 
-Prefix = (Prefix of the bot) -- Must require.
+Prefix = "<TYPE_YOUR_PREFIX_HERE>" # for example '!', '$', etc..
 
-Host = (Your-server-ip)
+Host = "<TYPE_YOUR_SERVER_IP_ADDRESS>" # Server ip e.g 123.123.123.123 etc
 
-Port = (server-port)
+Port = "<TYPE_YOUR_SERVER_PORTS>" # Server port e.g 28960, 28961, etc
 
-Rcon = (rcon-pass) -- Remember Rcon pass needed.
+Rcon = "<TYPE_YOUR_SERVER_RCON_PASSWORD>" # Rcon pass for the specified server
 
-Now before running the file you need to see the Method 1 or Method 2
+bot_name = "~Message-sender-bot" # Your bot name doesn't matter what name you give. The name you give the bot in discord developer dashboard.
+
+Server_name = "<YOUR_SERVER_NAME>" # your server name.
+
+path = "" # Location of the file where the commandsender.py file is saved. Like e.g /data/myserver/commandsender.py
+
+TOKEN = "<YOUR_BOT_TOKEN>" # Your bot token...
 
 
 

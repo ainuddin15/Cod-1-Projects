@@ -81,6 +81,6 @@ Now if you are not a coder and got confused don't be upset i got your back, i al
 
 
 
-Now run the discord.py :)
+Now run the discord-bot.py :)
 
 enjoy! 😉

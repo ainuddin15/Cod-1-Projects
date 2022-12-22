@@ -23,7 +23,7 @@ path = "" # Location of the file where the commandsender.py file is saved. Like 
 
 TOKEN = "<YOUR_BOT_TOKEN>" # Your bot token...
 
-
+Now before you run the script see the methods down below, Complete one of them so that your bot should work:
 
 [Method No. 1](https://github.com/ainuddin15/Cod-1-Projects/blob/main/README.md#method-1)
 

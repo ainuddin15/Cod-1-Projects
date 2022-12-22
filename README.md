@@ -19,9 +19,9 @@ Now before running the file you need to see the Method 1 or Method 2
 
 
 
-[Method No. 1](https://github.com/ainuddin15/Cod-1-Projects/edit/main/README.md#method-1)
+[Method No. 1](https://github.com/ainuddin15/Cod-1-Projects/blob/main/README.md#method-1)
 
-[Method No. 2](https://github.com/ainuddin15/Cod-1-Projects/edit/main/README.md#method-2)
+[Method No. 2](https://github.com/ainuddin15/Cod-1-Projects/blob/main/README.md#method-2)
 
   
 ## Method 1

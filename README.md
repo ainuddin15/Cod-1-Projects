@@ -1,7 +1,7 @@
 # Talk in Cod 1 Server through discord.
 
 
-*open the discord.py*
+*open the discord-bot.py*
 
 Change the variables according to your needs.
 
